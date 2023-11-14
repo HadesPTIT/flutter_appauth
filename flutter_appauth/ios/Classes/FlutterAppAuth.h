@@ -4,7 +4,7 @@
 #import <Flutter/Flutter.h>
 #endif
 
-#import <AppAuth/AppAuth.h>
+#import <AppAuthF/AppAuth.h>
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN

@@ -1,5 +1,5 @@
 #import <FlutterMacOS/FlutterMacOS.h>
-#import <AppAuth/AppAuth.h>
+#import <AppAuthF/AppAuth.h>
 #import "OIDExternalUserAgentMacNoSSO.h"
 #import "FlutterAppAuth.h"
 

@@ -17,7 +17,7 @@
  */
 
 #import <AppKit/AppKit.h>
-#import <AppAuth/AppAuth.h>
+#import <AppAuthF/AppAuth.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -17,7 +17,7 @@
  */
 
 #import <UIKit/UIKit.h>
-#import <AppAuth/AppAuth.h>
+#import <AppAuthF/AppAuth.h>
 
 @class SFSafariViewController;
 

@@ -8,7 +8,7 @@
 #import "AppAuthIOSAuthorization.h"
 #endif
 
-#import <AppAuth/AppAuth.h>
+#import <AppAuthF/AppAuth.h>
 
 @interface FlutterAppauthPlugin : NSObject<FlutterPlugin>
 

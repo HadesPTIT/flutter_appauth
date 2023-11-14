@@ -1,4 +1,4 @@
-#import <AppAuth/AppAuth.h>
+#import <AppAuthF/AppAuth.h>
 #import <Flutter/Flutter.h>
 #import "OIDExternalUserAgentIOSNoSSO.h"
 #import "FlutterAppAuth.h"
